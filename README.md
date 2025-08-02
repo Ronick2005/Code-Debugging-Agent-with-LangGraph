@@ -1,6 +1,6 @@
 # Code Debugging Agent with LangGraph
 
-This project implements an AI-powered code debugging assistant using the LangGraph framework. The agent is designed to analyze code, identify bugs, suggest solutions, and provide detailed explanations to streamline the debugging process for developers.
+This project implements an AI-powered code debugging assistant using the LangGraph framework. The agent is designed to analyze code, identify bugs, suggest solutions, and provide detailed explanations to streamline the debugging process for the developers.
 
 ### **Features**
 
