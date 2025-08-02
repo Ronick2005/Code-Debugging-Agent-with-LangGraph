@@ -47,6 +47,7 @@ def calculate_average(numbers):
 # 2. Provide any known error message
 error_message = "SyntaxError: invalid syntax"
 
+
 # 3. Run the debugging assistant
 # (Assuming the run_debugging_assistant function is defined)
 run_debugging_assistant(test_code, error_message)
